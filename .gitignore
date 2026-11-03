@@ -1,0 +1,10 @@
+# Arquivos gerados pelo script
+alunos_sujos.csv
+relatorio_final.xlsx
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
